@@ -1,1 +1,1 @@
-console.log ('Hi, my name is Armine')
+console.log ('Hello, Hexlet!')
