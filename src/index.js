@@ -1,6 +1,6 @@
-import _ from "lodash";
+import _ from 'lodash'
 
 export default () => {
-const text = _.last(["one", "two"])
-return text;
+  const a = _.last(['one', 'two'])
+  return a
 }
